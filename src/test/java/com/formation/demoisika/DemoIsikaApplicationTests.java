@@ -16,7 +16,7 @@ class DemoIsikaApplicationTests {
 	
 	@Test
 	void addTest() {
-		assertEquals(12, calculatorService.add(8, 5));
+		assertEquals(12, calculatorService.add(8, 4));
 	}
 
 }
